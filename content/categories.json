@@ -2,19 +2,19 @@
   "categories": [
     {
       "slug": "investing-stack",
-      "name": "Investing Stack",
+      "name": "Investing",
       "description": "best free open source tools for your next projects",
       "icon": "📈"
     },
     {
       "slug": "personal-finance-stack",
-      "name": "Personal Finance Stack",
+      "name": "Personal Finance",
       "description": "best free productivity tools",
       "icon": "💰"
     },
     {
       "slug": "ecommerce-stack",
-      "name": "E-commerce Stack",
+      "name": "E-commerce",
       "description": "The ultimate database of tools and platforms to build your own online store",
       "icon": "📊"
     },
