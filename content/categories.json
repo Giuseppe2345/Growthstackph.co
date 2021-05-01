@@ -7,16 +7,16 @@
       "icon": "📈"
     },
     {
-      "slug": "personal-finance",
+      "slug": "personal-finance-stack",
       "name": "Personal Finance Stack",
       "description": "best free productivity tools",
       "icon": "💰"
     },
     {
-      "slug": "communication",
-      "name": "Communication",
-      "description": "best communication tools",
-      "icon": "💬"
+      "slug": "ecommerce-stack",
+      "name": "E-commerce Stack",
+      "description": "The ultimate database of tools and platforms to build your own online store",
+      "icon": "📊"
     },
     {
       "slug": "finance",
