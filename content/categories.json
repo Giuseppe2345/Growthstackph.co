@@ -16,13 +16,13 @@
       "slug": "ecommerce-stack",
       "name": "E-commerce",
       "description": "The ultimate database of tools and platforms to build your own online store",
-      "icon": "📊"
+      "icon": "🛒"
     },
     {
-      "slug": "finance",
-      "name": "Finance",
-      "description": "best finance tools",
-      "icon": "💰"
+      "slug": "affiliate-marketing",
+      "name": "Affiliate Marketing",
+      "description": "Recommend products and earn commissions on the best affiliate marketing platforms.",
+      "icon": "📊"
     },
     {
       "slug": "cryptocurrency",
